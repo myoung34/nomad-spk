@@ -25,7 +25,7 @@ You can store your configuration using a `conf.d` folder inside `1_create_packag
 
 Download the binary from https://www.nomadproject.io/downloads.html, replace the content from **1_create_package/nomad** directory and exec create_spk.sh:
 
-```~/src/nomad-spk(master)$ rm -rf 1_create_package/nomad/ && unzip nomad_1.4.4_linux_amd64.zip && mv nomad ./1_create_package/```
+```~/src/nomad-spk(master)$ rm -rf 1_create_package/nomad/ && unzip nomad_1.9.3_linux_amd64.zip && mv nomad ./1_create_package/```
 
 ```$ sh create_spk.sh```
 
